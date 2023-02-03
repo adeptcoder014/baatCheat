@@ -1,1 +1,1 @@
-export const  SERVER ="https://baatcheat-server.onrender.com/"
+export const  SERVER ="https://baatcheat-server.onrender.com"
